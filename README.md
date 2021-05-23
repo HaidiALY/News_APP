@@ -28,7 +28,7 @@ Screenshots :
 
 On the bottom header, user has the possibility to choose between various news channels.
 
-(screenshot 1)
+<a hred="screenshots/screenshot 1.jpg" > <img src="screenshots/screenshot 1.jpg" /> </a>
 
  
 
